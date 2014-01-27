@@ -14,5 +14,5 @@ The method uses private methods in the SodukuVerifier class to verify:
 
 -The board uses integers 1-9 uniquely in each row and column
 
--The board uses intergers 1-9 uniquely in each Sudoku cell within the board
+-The board uses integers 1-9 uniquely in each Sudoku cell within the board
 
